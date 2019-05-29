@@ -9,7 +9,7 @@
 			<name>com.aptana.editor.php.aptanaPhpBuilder</name>
 			<arguments>
 			</arguments>
-		</buildCommand>
+		</buildCommand>地方
 		<buildCommand>
 			<name>com.aptana.ide.core.unifiedBuilder</name>
 			<arguments>
